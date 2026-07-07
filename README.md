@@ -3,7 +3,7 @@
 <p align="center">
   <b style="color: blue;  ">Visitor count</b>
   <br>
-  <a style="" href="https://github.com/akashdeep023">
+  <a style="" href="https://github.com/danieljoshua01">
   <img src="https://profile-counter.glitch.me/chat-app/count.svg" />
   </a>
 </p>
@@ -140,9 +140,8 @@ Open `http://localhost:5173` in your web browser.
 
 ## Author
 
-Akash Deep \
-Email: contact.akashdeep023@gmail.com \
-LinkedIn : https://www.linkedin.com/in/akashdeep023/
+Daniel Joshua Lee \
+Email: danieljoshua01@protonmail.com
 
 ## Images
 **Profile**
